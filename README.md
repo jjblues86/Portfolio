@@ -12,6 +12,8 @@ Finish time: 9:30pm(11/29/18)
 Actual time needed to complete: 5 hours
 
 
+----------------------------------------------------------
+
 Number and name of feature: 2 Modify the Contents
 
 Estimate of time needed to complete: 2 hours
@@ -22,6 +24,7 @@ Estimate of time needed to complete: 2 hours
 
 Actual time needed to complete: 4 hours
 
+------------------------------------------------------------
 
 Number and name of feature: Add functionality
 
